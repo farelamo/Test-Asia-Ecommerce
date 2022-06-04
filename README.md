@@ -19,7 +19,12 @@ composer update
 php artisan jwt:secret
 ```
 
-### 3. Migrate and Seeder
+### 3. Generate APP_KEY
+```
+php artisan key:generate
+```
+
+### 4. Migrate and Seeder
 ```
 php artisan migrate
 ```
