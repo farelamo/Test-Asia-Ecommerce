@@ -1,5 +1,6 @@
 # Online Test Asia Ecommerce
-    Aplikasi sederhana dengan Laravel dan MySQL serta dokumentasi API yang dapat diakses pada link di bawah. Penerapan JWT Auth, Resource Output serta Middleware untuk penerapan multi user (Admin, User, Guest) pada 3 data source (Users, Posts, Comments).
+
+Aplikasi sederhana dengan Laravel dan MySQL serta dokumentasi API yang dapat diakses pada link di bawah. Penerapan JWT Auth, Resource Output serta Middleware untuk penerapan multi user (Admin, User, Guest) pada 3 data source (Users, Posts, Comments).
 
 ## Installation
 
