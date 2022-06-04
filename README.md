@@ -9,6 +9,11 @@ Aplikasi sederhana dengan Laravel dan MySQL serta dokumentasi API yang dapat dia
 composer install
 ```
 
+**if need update with JWT Dependency, do this**
+```
+composer update
+```
+
 ### 2. Generate JWT Secret
 ```
 php artisan jwt:secret
